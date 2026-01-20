@@ -71,7 +71,7 @@ const About = () => {
             </motion.div>
 
             <motion.a
-              href="../../Bellagh Fatma (11).pdf"
+              href="../../CV.pdf"
               download
               className="download-btn"
               initial={{ opacity: 0, y: 20 }}
