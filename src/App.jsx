@@ -13,33 +13,23 @@ import { LanguageProvider } from './context/LanguageContext.jsx'
 function App() {
   return (
     <LanguageProvider>
-      <div className="min-h-screen relative overflow-x-hidden">
-        
+      <div className="min-h-screen relative">
         {/* Overlay bleu semi-transparent */}
-        <div className="absolute inset-0 bg-blue-800/20 dark:bg-blue-900/30 pointer-events-none z-0"></div>
+        <div className="absolute inset-0 bg-blue-800/20 dark:bg-blue-900/30 pointer-events-none"></div>
 
-        {/* Contenu principal au-dessus de l'overlay */}
-        <div className="relative z-10">
-          <Header />
-
-          {/* Container global responsive */}
-          <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <Hero />
-            <About />
-            <Education />
-            <Skills />
-            <Projects />
-            <Certifications />
-            <Languages />
-
-            {/* Section Expérience (vide pour l’instant) */}
-            <section id="experience" className="py-16"></section>
-
-            <Contact />
-          </main>
-
-          <Footer />
-        </div>
+        <Header />
+        <main>
+          <Hero />
+          <About />
+          <Education />          {/* Nouveau */}
+          <Skills />
+          <Projects />
+          <Certifications />     {/* Nouveau */}
+          <Languages />          {/* Nouveau */}
+          <section id="experience">{/* Expérience */}</section>
+          <Contact />
+        </main>
+        <Footer />
       </div>
     </LanguageProvider>
   )
