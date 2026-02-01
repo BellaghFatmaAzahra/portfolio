@@ -65,9 +65,8 @@ const About = () => {
               transition={{ delay: 0.6 }}
             >
               <span className="skill-tag">IA & Machine Learning</span>
-              <span className="skill-tag">Cybersécurité</span>
               <span className="skill-tag">Développement Full-Stack</span>
-              <span className="skill-tag">Cloud Computing</span>
+              
             </motion.div>
 
             <motion.a
