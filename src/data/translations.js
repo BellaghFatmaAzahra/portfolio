@@ -10,15 +10,15 @@ export const translations = {
     },
     hero: {
       name: 'Bellagh Fatma',
-      title: 'Passionnée par l\'IA et la cybersécurité',
-      subtitle: 'Étudiante en L3 Informatique, je me spécialise dans le développement d\'applications sécurisées, en alliant expertise en cybersécurité et intelligence artificielle. Mon objectif : créer des solutions techniques qui sont à la fois performantes et résilientes.',
+      title: 'Passionnée par l\'IA et le développement web',
+      subtitle: 'Étudiante en L3 Informatique, je me spécialise dans le développement d\'applications web modernes en alliant intelligence artificielle et bonnes pratiques de développement. Mon objectif : créer des solutions techniques performantes, intuitives et évolutives.',
       cta: 'Voir mes projets',
       contact: 'Me contacter',
     },
     about: {
       title: 'À propos de moi',
-      description: 'Passionnée par la convergence entre intelligence artificielle et sécurité numérique, je développe des systèmes intelligents avec une approche "security by design" intégrée dès la phase de conception.',
-      paragraph2: 'Actuellement en recherche active d\'un stage de fin d\'études, je souhaite mettre mes compétences au service de projets innovants en cybersécurité offensive, machine learning sécurisé ou protection des infrastructures critiques.',
+      description: 'Passionnée par la convergence entre intelligence artificielle et développement web, je conçois des applications intelligentes avec une approche orientée performance, accessibilité et expérience utilisateur dès la phase de conception.',
+      paragraph2: 'Actuellement en recherche active d\'un stage de fin d\'études, je souhaite mettre mes compétences au service de projets innovants en développement web, applications intelligentes ou plateformes numériques modernes.',
       downloadCV: 'Télécharger mon CV',
     },
     skills: {
@@ -39,6 +39,7 @@ export const translations = {
       rights: 'Tous droits réservés',
     },
   },
+
   en: {
     nav: {
       home: 'Home',
@@ -50,15 +51,15 @@ export const translations = {
     },
     hero: {
       name: 'Bellagh Fatma',
-      title: 'AI & Cybersecurity Enthusiast',
-      subtitle: 'Third-year Computer Science Student, specializing in developing secure applications by combining cybersecurity expertise and artificial intelligence. My goal: to create technical solutions that are both performant and resilient.',
+      title: 'AI & Web Development Enthusiast',
+      subtitle: 'Third-year Computer Science Student, specializing in modern web application development by combining artificial intelligence and best development practices. My goal: to create technical solutions that are efficient, intuitive, and scalable.',
       cta: 'View my projects',
       contact: 'Contact me',
     },
     about: {
       title: 'About Me',
-      description: 'Passionate about the convergence of artificial intelligence and cybersecurity, I develop intelligent systems with a "security by design" approach integrated from the conception phase.',
-      paragraph2: 'Currently actively seeking a final year internship, I aim to apply my skills to innovative projects in offensive cybersecurity, secure machine learning, or critical infrastructure protection.',
+      description: 'Passionate about the convergence of artificial intelligence and web development, I design intelligent applications with a performance, accessibility, and user-experience-oriented approach from the conception phase.',
+      paragraph2: 'Currently actively seeking a final year internship, I aim to apply my skills to innovative projects in web development, intelligent applications, or modern digital platforms.',
       downloadCV: 'Download my Resume',
     },
     skills: {
@@ -79,6 +80,7 @@ export const translations = {
       rights: 'All rights reserved',
     },
   },
+
   ar: {
     nav: {
       home: 'الرئيسية',
@@ -90,15 +92,15 @@ export const translations = {
     },
     hero: {
       name: 'بلاغ فاطمة',
-      title: 'مهتمة بالذكاء الاصطناعي والأمن السيبراني',
-      subtitle: 'طالبة في السنة الثالثة علوم الحاسوب، أتخصص في تطوير التطبيقات الآمنة من خلال الجمع بين الخبرة في الأمن السيبراني والذكاء الاصطناعي. هدفي: إنشاء حلول تقنية تكون فعالة وقوية في نفس الوقت.',
+      title: 'مهتمة بالذكاء الاصطناعي وتطوير الويب',
+      subtitle: 'طالبة في السنة الثالثة علوم الحاسوب، أتخصص في تطوير تطبيقات ويب حديثة من خلال الجمع بين الذكاء الاصطناعي وأفضل ممارسات التطوير. هدفي: إنشاء حلول تقنية فعالة وسهلة الاستخدام وقابلة للتطوير.',
       cta: 'عرض مشاريعي',
       contact: 'تواصل معي',
     },
     about: {
       title: 'نبذة عني',
-      description: 'شغوفة بالتقارب بين الذكاء الاصطناعي والأمن السيبراني، أصمم أنظمة ذكية بنهج "الأمن أثناء التصميم" المدمج منذ مرحلة التصميم.',
-      paragraph2: 'أبحث حاليًا بنشاط عن تدريب نهاية الدراسات، أطمح لتوظيف مهاراتي في مشاريع مبتكرة في الأمن السيبراني الهجومي، تعلم الآلة الآمن أو حماية البنى التحتية الحرجة.',
+      description: 'شغوفة بالتقارب بين الذكاء الاصطناعي وتطوير الويب، أقوم بتصميم تطبيقات ذكية مع التركيز على الأداء وسهولة الاستخدام وتجربة المستخدم منذ مرحلة التصميم.',
+      paragraph2: 'أبحث حاليًا بنشاط عن تدريب نهاية الدراسات، وأطمح لتوظيف مهاراتي في مشاريع مبتكرة في تطوير الويب أو التطبيقات الذكية أو المنصات الرقمية الحديثة.',
       downloadCV: 'تحميل سيرتي الذاتية',
     },
     skills: {
